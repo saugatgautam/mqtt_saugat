@@ -108,6 +108,9 @@ Encrypted, minimal, and pseudonymized messages are now transmitted after this.
 | **Non-compliance**  | Depends on adherence to regulations     |
 | **Non-repudiation** | Not implemented (requires logging/sign) |
 
+# Youtube Video Link
+https://youtu.be/sGBye607oaM
+
 # Author
 Saugat Gautam   
 G01536732   
